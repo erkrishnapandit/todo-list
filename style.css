@@ -64,7 +64,7 @@ button{
 }
 
 ul li{
-    border: 1px solid gray;
+    /* border: 1px solid gray; */
     list-style: none;
     font-size: 20px;
     padding: 12px 8px 12px 50px;
