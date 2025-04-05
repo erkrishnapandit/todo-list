@@ -24,4 +24,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/erkrishnapandit/todo-list-app.git
+   git clone https://github.com/erkrishnapandit/todo-list.git
