@@ -36,7 +36,7 @@ function saveData(){
     localStorage.setItem("data", listContainer.innerHTML);
 }
 
-// Functio to get deta from the local storage
+// Function to get data from the local storage
 function showData(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
